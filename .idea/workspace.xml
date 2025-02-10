@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="36fd60cc-3021-490a-b0f7-4f4898d294bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TwoD_Arrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoDArrays/As1_Bingo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoDArrays/Ex1_GolfCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoDArrays/Ex2_Tic.java" afterDir="false" />
-    </list>
+    <list default="true" id="36fd60cc-3021-490a-b0f7-4f4898d294bd" name="Changes" comment="From School" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/SteinwayNB/2D-Arrays-School",
+    "accountId": "541f76c1-5f61-4ec5-86d9-71f86732f50d"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -79,6 +77,15 @@
       <option name="presentableId" value="Default" />
       <updated>1736890514759</updated>
     </task>
+    <task id="LOCAL-00001" summary="From School">
+      <option name="closed" value="true" />
+      <created>1739223300467</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739223300467</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,5 +98,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="From School" />
+    <option name="LAST_COMMIT_MESSAGE" value="From School" />
   </component>
 </project>
